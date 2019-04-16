@@ -1,0 +1,5 @@
+event_data/
+event_datafile_new.csv
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
